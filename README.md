@@ -4,8 +4,6 @@ Aplikasi pendamping kesehatan kerja perawat untuk iPhone dan Apple Watch, dikemb
 
 Repository ini masih berupa starter untuk dua app dengan tampilan “Hello, world!”. Feature session, duty, body battery, HealthKit, Firebase, dan Watch Connectivity belum tersedia. Product dan technical decisions ada di [Technical Requirements](docs/TechnicalRequirements.md).
 
-**Documentation style:** Penjelasan boleh menggunakan bahasa Indonesia, tetapi technical terms, heading, nama component, dan istilah workflow yang umum tetap dalam English. Gunakan istilah yang sama secara konsisten, misalnya `session`, `feature`, `configuration`, `permission`, `consent`, `testing`, dan `deployment`.
-
 ## Prerequisites
 
 - macOS yang mendukung versi Xcode yang digunakan.
