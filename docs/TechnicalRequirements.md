@@ -4,8 +4,6 @@
 **Last updated:** 20 October 2026  
 **Status:** Planning document; membedakan prototype yang sedang dikerjakan dari planned MVP integration.
 
-**Documentation style:** Penjelasan boleh campur bahasa Indonesia dan English. Technical terms, heading, nama component, dan istilah workflow yang umum tetap dalam English; gunakan vocabulary yang konsisten.
-
 ## 1. Project Overview
 
 **App name:** Nurse App; Nursitor adalah nama project dan target iOS di repository `nurse-app` saat ini.  
